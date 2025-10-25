@@ -1,6 +1,7 @@
 package smartcity;
 
 // AVLTree.java
+// AVL Tree by [Your Name]
 // Graph implementation by [kokilaraj]
 public class AVLTree {
     // Inner Node class
@@ -187,3 +188,4 @@ public class AVLTree {
     }
 
 }
+

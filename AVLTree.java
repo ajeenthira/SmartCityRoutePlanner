@@ -1,6 +1,7 @@
 package smartcity;
 
 // AVLTree.java
+// Graph implementation by [kokilaraj]
 public class AVLTree {
     // Inner Node class
     private class Node {
@@ -184,4 +185,5 @@ public class AVLTree {
             inorder(node.right);
         }
     }
+
 }

@@ -46,4 +46,6 @@ public class Location implements Comparable<Location> {
     public int hashCode() {
         return name.hashCode();
     }
+
 }
+// Location class by Ajeenthira
